@@ -1,0 +1,33 @@
+.jumbotron {
+    padding-top: 6rem; 
+    background-color: #a9d1d1;
+}
+#projects {
+    background-color: #a9d1d1;
+}
+footer {
+    background: #189e9e;
+    color: white; 
+    text-align: center;
+    padding-bottom: 5px;
+}
+button {
+    background: #189e9e;
+    color: white;
+}
+section {
+    padding-top: 5rem;
+}
+.do {
+    margin-left: 10px;
+    color: white;
+}
+i {
+    color: white;
+}
+.gallery-img {
+    width: 100%;
+}
+#gallery  .row > *{
+    padding: 0;
+}
